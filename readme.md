@@ -157,3 +157,11 @@ menuentry "ANNIHILATE ALL BLOCK DEVICES" {
 	initrdefi tinylinux/boot/tinycore.gz
 }
 ```
+
+___
+
+### Источники:
+- https://distro.ibiblio.org/tinycorelinux/corebook.pdf
+- https://www.brianlane.com/post/qemu-uefi-pxe/
+- https://www.brianlane.com/post/qemu-pxeboot/
+- https://unixforum.org/viewtopic.php?t=151291
